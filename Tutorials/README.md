@@ -25,6 +25,10 @@ the components from a SECKC Cotcha designed by @billswearingen and made a comple
 * **networkgeek** - Carl Fugate
 * **fg** - Kevin Bennet
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 ## Acknowledgments
 
 * CodexMafia for his second year in helping us put badges together
