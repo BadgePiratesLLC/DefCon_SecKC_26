@@ -42,6 +42,10 @@ You will also need to remove the ground and power wires going from the LiPo char
 
 * **networkgeek** - Carl Fugate
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 ## Acknowledgments
 
 * @hevnsnt for the AWESOME SECKC Cotcha
