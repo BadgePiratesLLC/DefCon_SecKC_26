@@ -76,3 +76,11 @@ As always you have more than 1 option .. i will describe 2. The Easy way and the
 ```
 
 LiPo's and LiPo Chargers you say? LiPo you are on your own, but find me at DefCon I might have a few LiPo charger boards left.
+
+## Authors
+
+* **fg** - Kevin Bennett
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](../LICENSE.md) file for details
