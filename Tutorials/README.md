@@ -15,14 +15,14 @@ The stock badge comes with a 2x AAA battery holder which will power the badge fo
 bling.  If you want to turn on the wireless features, it draws down the battery much quicker.  @fg has
 done a hack to add a LiPo and charger to his badge to give you an idea of how to do this.
 
-[LiPO Battery Tutorial](/Lipo/README.md)
+[LiPO Battery Tutorial](/Tutorials/Lipo/README.md)
 
 ### Cotcha Stand Alone Badge
 
 Maybe you didn't buy a badge and got just a DEV board, or want to build a badge of your own.  @networkgeek took
 the components from a SECKC Cotcha designed by @billswearingen and made a completely stand alone badge.
 
-[SecKC Cotcha Tutorial](/Cotcha/README.md)
+[SecKC Cotcha Tutorial](/Tutorials/Cotcha/README.md)
 
 ## Authors
 
