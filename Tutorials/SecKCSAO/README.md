@@ -1,8 +1,8 @@
 # SecKC the World SAO
 
-First of all thank you for being a supporter of the very first (official) [SecKC](www.seckc.org) Defcon Party!
+First of all thank you for being a supporter of the very first (official) [SecKC](https://www.seckc.org) Defcon Party!
 Your donation allowed us over 500 of your fellow hackers to have a great evening listening to some sick beats
-laid down by [sysaaron](www.twitter.com/sysaaron) and [archwisp](www.twitter.com/archwisp)!
+laid down by [sysaaron](https://www.twitter.com/sysaaron) and [archwisp](https://www.twitter.com/archwisp)!
 
 ## The SAO
 
