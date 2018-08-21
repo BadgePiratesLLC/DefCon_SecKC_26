@@ -41,7 +41,7 @@ I would suggest holding WEMOS up giving you some space between the DEV board and
 so that you can run wires underneath to the pins instead of brining them to the top of the MCU
 as you will see when the VCC & GND wires are connected.
 
-![Board-headers](/img/board-headers.jpg)
+![Board-headers](img/board-headers.jpg)
 
 Installed WEMOS D1
 

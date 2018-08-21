@@ -70,7 +70,7 @@ When mounting the SAO, you will want to add some double-sided adhesive to help s
 the header wont prevent it from flexing on the other sides.  You can see below how it will provide a bit of a
 backlit effect when installed.
 
-[Backlit SAO](img/SecKC-SAO-BPDC26.jpg)
+![Backlit SAO](img/SecKC-SAO-BPDC26.jpg)
 
 
 ## Authors
