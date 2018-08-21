@@ -24,10 +24,17 @@ the components from a SECKC Cotcha designed by @billswearingen and made a comple
 
 [SecKC Cotcha Tutorial](/Tutorials/Cotcha/README.md)
 
+### SecKC the World Party Standalone
+
+Were you one of the supporters for the very first (offical) [SecKC](www.seckc.org) Defcon Party?  There were some additional things
+about the SAO that you might not have known.
+
+[SecKC the World SAO](/Tutorials/SecKCSAO/README.md)
+
 ## Authors
 
-* **networkgeek** - Carl Fugate
-* **fg** - Kevin Bennet
+* **networkgeek** - [Carl Fugate](www.twitter.com/carlfugate)
+* **fg** - [Kevin Bennett](www.twitter.com/flightgod)
 
 ## License
 
