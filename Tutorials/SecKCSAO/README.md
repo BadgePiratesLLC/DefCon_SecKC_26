@@ -31,7 +31,7 @@ The SAO has two differnet header options depending on whether you want to use th
 or if you have a BP DC26 badge a 3 pin male header that will cover the 'Bob' image on your badge and not
 require you to use your SAO slot.
 
-![SAO Header](/img/SecKC-SAO-Header.jpg)
+![SAO Header](img/SecKC-SAO-Header.jpg)
 
 If you are only installing the SAO v1.0 style header, simply solder on a 2x2 male header and you are done!
 
@@ -64,13 +64,13 @@ badge.  The connection on the 3 pin header is to the far right pin which you wil
 our makeshift VCC pin for the SAO.  Simply solder a wire between those two pins and your SAO will have power
 for the LED.
 
-![SAO BP DC26 Header](/img/SecKC-SAO-VCC-Wire.jpg)
+![SAO BP DC26 Header](img/SecKC-SAO-VCC-Wire.jpg)
 
 When mounting the SAO, you will want to add some double-sided adhesive to help space it out on the edges as
 the header wont prevent it from flexing on the other sides.  You can see below how it will provide a bit of a
 backlit effect when installed.
 
-[Backlit SAO](/img/SecKC-SAO-BPDC26.jpg)
+[Backlit SAO](img/SecKC-SAO-BPDC26.jpg)
 
 
 ## Authors
