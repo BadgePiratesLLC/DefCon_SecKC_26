@@ -3,6 +3,8 @@
 Our badge (while blingy) is designed for hacking.  The add-on development board gives you access to the pins
 of the ESP32 MCU as well as power.  The idea is for you to take and extend the badge to do something even more
 interesting.
+# How to Program the DC26 Badge
+[Program SecKCDC26 Badge]/(Tutorials/Program/README.md)
 
 ## Examples
 
